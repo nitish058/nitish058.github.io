@@ -50,7 +50,7 @@ export default function Home() {
           transition={{ duration: 0.5, delay: 0.4 }}
           className="pt-12 flex gap-6 text-gray-400"
         >
-          <Link href="https://github.com/Nitish01232" target="_blank" className="hover:text-black transition-colors">
+          <Link href="https://github.com/nitish058" target="_blank" className="hover:text-black transition-colors">
             <Github className="h-6 w-6" />
             <span className="sr-only">GitHub</span>
           </Link>

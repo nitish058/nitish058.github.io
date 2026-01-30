@@ -40,7 +40,7 @@ export default function ContactPage() {
 
                     <div className="flex gap-6 mt-8">
                         <Link
-                            href="https://github.com/Nitish01232"
+                            href="https://github.com/nitish058"
                             target="_blank"
                             className="p-4 bg-gray-50 rounded-full text-gray-600 hover:text-black hover:bg-gray-100 transition-all"
                         >

@@ -6,7 +6,7 @@ export function Footer() {
                     &copy; {new Date().getFullYear()} Nitish. Crafted with Next.js & Tailwind.
                 </p>
                 <div className="flex items-center gap-4">
-                    <a href="https://github.com/Nitish01232" target="_blank" rel="noopener noreferrer" className="text-gray-500 hover:text-black transition-colors text-sm">
+                    <a href="https://github.com/nitish058" target="_blank" rel="noopener noreferrer" className="text-gray-500 hover:text-black transition-colors text-sm">
                         GitHub
                     </a>
                     <a href="https://www.linkedin.com/in/nitish-a-geek" target="_blank" rel="noopener noreferrer" className="text-gray-500 hover:text-black transition-colors text-sm">
