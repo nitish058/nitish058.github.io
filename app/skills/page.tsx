@@ -6,11 +6,11 @@ import { motion } from "framer-motion";
 const skills = [
     {
         category: "Languages",
-        items: ["Java", "Kotlin", "TypeScript", "JavaScript", "SQL"],
+        items: ["Java", "Kotlin", "SQL"],
     },
     {
         category: "Backend",
-        items: ["Spring Boot", "RESTful APIs", "Microservices", "PostgreSQL", "System Design"],
+        items: ["Ktor", "Spring Boot"],
     },
     {
         category: "Android",
@@ -18,7 +18,7 @@ const skills = [
     },
     {
         category: "Tools & DevOps",
-        items: ["Git & GitHub", "Docker", "IntelliJ IDEA", "Android Studio", "Linux"],
+        items: ["Git & GitHub", "IntelliJ IDEA", "Android Studio", "Linux"],
     },
 ];
 

@@ -8,25 +8,25 @@ import Link from "next/link";
 
 const projects = [
     {
-        title: "E-Commerce Microservices",
-        description: "A scalable backend system built with Spring Boot and Microservices architecture. Features include authentication, product management, and order processing with Kafka messaging.",
-        tags: ["Java", "Spring Boot", "Kafka", "Docker", "PostgreSQL"],
+        title: "Karto – Android E-Commerce App",
+        description: "Karto is a modern Android e-commerce application built using Kotlin and Jetpack Compose, following MVVM + Clean Architecture principles. It integrates REST APIs for product and user data, supports offline-first persistence using Room, and focuses heavily on scalable state management, modular design, and maintainable code structure.",
+        tags: ["Kotlin", "Jetpack Compose", "MVVM", "Room", "Retrofit"],
         github: "https://github.com/nitish058",
         demo: null,
     },
     {
-        title: "Task Master Android App",
-        description: "A modern task management application built with Jetpack Compose. Supports offline synchronization using Room Database and follows MVVM clean architecture.",
-        tags: ["Kotlin", "Android", "Jetpack Compose", "Room DB"],
+        title: "Attendance Calculator – Java Console App",
+        description: "A simple yet well-structured Java console application that calculates course attendance and helps students decide whether they must attend upcoming classes or can safely skip them based on a required attendance percentage. Built using a strict layered (N-tier) architecture to demonstrate clean coding practices, input validation, and separation of concerns even in a small project.",
+        tags: ["Java", "N-tier Architecture", "Console App"],
         github: "https://github.com/nitish058",
-        demo: "https://play.google.com",
+        demo: null,
     },
     {
-        title: "Algorithm Visualizer",
-        description: "Interactive web application to visualize sorting and pathfinding algorithms. Built to help students understand complex algorithms intuitively.",
-        tags: ["TypeScript", "React", "Algorithms", "Tailwind"],
+        title: "ISS Tracker",
+        description: "A Java-based application that tracks the real-time location of the International Space Station (ISS) using a public API and visualizes its live position on an interactive world map. The project follows clean N-tier architecture, supports both console mode and JavaFX UI, and is structured using an industry-standard Maven project layout.",
+        tags: ["Java", "JavaFX", "Maven", "API Integration"],
         github: "https://github.com/nitish058",
-        demo: "https://github.com/nitish058",
+        demo: null,
     },
 ];
 
