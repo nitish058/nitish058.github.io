@@ -11,22 +11,22 @@ const projects = [
         title: "E-Commerce Microservices",
         description: "A scalable backend system built with Spring Boot and Microservices architecture. Features include authentication, product management, and order processing with Kafka messaging.",
         tags: ["Java", "Spring Boot", "Kafka", "Docker", "PostgreSQL"],
-        github: "https://github.com",
+        github: "https://github.com/nitish058",
         demo: null,
     },
     {
         title: "Task Master Android App",
         description: "A modern task management application built with Jetpack Compose. Supports offline synchronization using Room Database and follows MVVM clean architecture.",
         tags: ["Kotlin", "Android", "Jetpack Compose", "Room DB"],
-        github: "https://github.com",
+        github: "https://github.com/nitish058",
         demo: "https://play.google.com",
     },
     {
         title: "Algorithm Visualizer",
         description: "Interactive web application to visualize sorting and pathfinding algorithms. Built to help students understand complex algorithms intuitively.",
         tags: ["TypeScript", "React", "Algorithms", "Tailwind"],
-        github: "https://github.com",
-        demo: "https://github.com",
+        github: "https://github.com/nitish058",
+        demo: "https://github.com/nitish058",
     },
 ];
 
